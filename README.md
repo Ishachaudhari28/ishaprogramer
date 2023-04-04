@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishaprogramer
+- 👋 Hi, I’m @isha
 - 👀 I’m interested in ...programming and coding
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...anything c,c++ & java
